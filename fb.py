@@ -22,7 +22,6 @@ ___________                  ___.                  __
                      \/      \/     \/     \/         '''
 
 animated(logo)
-print('Đevøløpër B¥ Wĥït€ D€vïl')
 if sys.version_info[0] != 3:
     print('''\t--------------------------------------\n\t\tREQUIRED PYTHON 3.x\n\t\tinstall and try: python3 
     fb.py\n\t--------------------------------------''')
